@@ -1,1 +1,5 @@
 # Deep-Learning-Approaches-for-Blood-Cell-Counting-and-Detection-in-Medical-Diagnostics
+![BloodImage_00347 (1)](https://github.com/user-attachments/assets/daeada32-2bf8-4413-9d6c-da8843b5336c)
+![BloodImage_00344](https://github.com/user-attachments/assets/b74120f8-0168-4216-bc51-b89caeaedc2a)
+![BloodImage_00339](https://github.com/user-attachments/assets/22198958-121b-46c9-9131-640eee0ef7d7)
+![BloodImage_00340](https://github.com/user-attachments/assets/1ad3aebe-32a9-4b3e-9fff-eafc548794cf)
